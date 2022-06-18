@@ -1,0 +1,10 @@
+[
+  {
+    "package": "SWTools",
+    "oncran": true
+  },
+  {
+    "package": "TUFLOWR",
+    "oncran": true
+  }
+]
