@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "TUFLOWR"]
-	path = TUFLOWR
-	url = https://github.com/matt-s-gibbs/tuflowr
-	shallow = true
-	registered = true
 [submodule "SWTools"]
 	path = SWTools
 	url = https://github.com/matt-s-gibbs/swtools
+	shallow = true
+	registered = true
+[submodule "TUFLOWR"]
+	path = TUFLOWR
+	url = https://github.com/matt-s-gibbs/tuflowr
 	shallow = true
 	registered = true

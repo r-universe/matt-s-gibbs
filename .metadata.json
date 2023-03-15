@@ -1,10 +1,10 @@
 [
   {
-    "package": "TUFLOWR",
+    "package": "SWTools",
     "oncran": true
   },
   {
-    "package": "SWTools",
+    "package": "TUFLOWR",
     "oncran": true
   }
 ]
